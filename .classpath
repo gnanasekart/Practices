@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/gnana.sekar/Downloads/selenium-java-3.141.59.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/gnana.sekar/Downloads/webdrivermanager-4.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/gnana.sekar/Downloads/testng-6.14.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chrome-driver/3.141.59/67137314736c6a2f39a8aa59a562e9616ae5f77e/selenium-chrome-driver-3.141.59.jar" sourcepath="C:/gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chrome-driver/3.141.59/b7189fcb53e45dcce1f02cf71bfd7d1a38883fed/selenium-chrome-driver-3.141.59-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/eclipse/jar files/selenium-remote-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/jar files/selenium-2.0b1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/jar files/selenium-api-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/jar files/selenium-firefox-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/jar files/selenium-htmlunit-driver-2.52.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/jar files/selenium-ie-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/jar files/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/jar files/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/jar files/selenium-support-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/jar files/temp/TGS.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

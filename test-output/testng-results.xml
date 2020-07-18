@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-18T16:45:58Z" name="Default suite" finished-at="2020-07-18T16:46:07Z" duration-ms="9202">
+    <groups>
+    </groups>
+    <test started-at="2020-07-18T16:45:58Z" name="Default test" finished-at="2020-07-18T16:46:07Z" duration-ms="9202">
+      <class name="SeleniumPractice.Actionsclass">
+        <test-method is-config="true" signature="starttest()[pri:0, instance:SeleniumPractice.Actionsclass@6913c1fb]" started-at="2020-07-18T16:45:58Z" name="starttest" finished-at="2020-07-18T16:46:07Z" duration-ms="9138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- starttest -->
+        <test-method signature="preceding()[pri:0, instance:SeleniumPractice.Actionsclass@6913c1fb]" started-at="2020-07-18T16:46:07Z" name="preceding" finished-at="2020-07-18T16:46:07Z" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preceding -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:SeleniumPractice.Actionsclass@6913c1fb]" started-at="2020-07-18T16:46:07Z" name="closebrowser" finished-at="2020-07-18T16:46:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- SeleniumPractice.Actionsclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
